@@ -1,5 +1,5 @@
 id,review,sentiment
-1,"Actually, <span>this product</span> is headphones is realy good!!! 😍 <b>Good choice</b> https://example.com!!! 😍",positive
+1,"Actually, <span> this product </span> is headphones is realy good!!! 😍 <b>Good choice</b> https://example.com!!! 😍",positive
 2,"Well, I think the product has terrible quality <div>very disappointing</div> <div>Customer review</div> Visit www.example.com...",negative
 3,In my opinion https://example.com this is product is awfull and stopped working 😭 https://example.com 😡!!!,negative
 4,"Well, I think the camera is <h1>realy good!!!</h1> 😍 <b>Good choice</b> https://example.com!!!",positive
